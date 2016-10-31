@@ -1,0 +1,38 @@
+#board {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body {
+  font-family: 'Coiny', cursive;
+  background-color: #FFFFFF;
+}
+
+h1 {
+  color: #757575;
+}
+
+.box {
+  border: 3px solid black;
+  font-size: 60px;
+  height: 150px;
+  padding: 40px 0;
+}
+
+.x {
+  color: #512DA8;
+}
+
+.o {
+  color: #009688;
+}
+
+.btn-warning {
+  background-color: #673AB7;
+  border-color: #673AB7;
+}
+
+.btn-warning:hover {
+  background-color: #009688;
+  border-color: #009688;
+}
