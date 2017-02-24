@@ -14,7 +14,7 @@ h1 {
 
 .box {
   border: 3px solid black;
-  font-size: 60px;
+  font-size: 50px;
   height: 150px;
   padding: 40px 0;
 }
@@ -30,9 +30,11 @@ h1 {
 .btn-warning {
   background-color: #673AB7;
   border-color: #673AB7;
+  margin: 5px;
 }
 
 .btn-warning:hover {
   background-color: #009688;
   border-color: #009688;
+  margin: 5px;
 }
